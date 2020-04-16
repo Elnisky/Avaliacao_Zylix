@@ -1,0 +1,5 @@
+1900; Entrada de Segurança 1; Sem entrada de segurança; 17
+1901; Entrada de Segurança 2; Sem entrada de segurança; 23
+156; Entrada de Segurança Fase 1; Sem segurança; 36
+157; Entrada de Segurança Fase 2; Sem segurança; 43
+158; Fase de Diagnósticos de Segurança; Sem segurança; 51

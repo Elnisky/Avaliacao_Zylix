@@ -1,0 +1,8 @@
+105; Bracos maximos disponiveis; 0;
+1110; Opcao Pemex; Habilitado;
+101; Data; ; Somente Leitura
+102; Hora; ; Somente Leitura
+103; Endereco MAC; 00:0C:29:55:00:D1;
+104; Revisao do Firmware; 0.9
+1102; Identificador do Firmware; ge22ed23f[overlay]
+1103; ID da Unidade; AccuLoad IV;

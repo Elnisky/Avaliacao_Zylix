@@ -1,0 +1,5 @@
+201; Contagem do Alarme do Solenoide; 0;
+204; Contagem da limpeza do Solenoide; Manual
+202; Limite do alarme de vazamento; 0.0
+203; Limite do fluxo reverso; 0.0
+1200; Selecao do simulador de fluxo; Desabilitado;
